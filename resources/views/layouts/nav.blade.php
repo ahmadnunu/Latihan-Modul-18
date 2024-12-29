@@ -1,6 +1,6 @@
 @php
 $currentRouteName = Route::currentRouteName(); @endphp
-<nav class="navbar navbar-expand-md navbar-dark bg-primary">
+<nav class="navbar navbar-expand-md navbar-dark bg-success">
     <div class="container">
         <a href="{{ route('home') }}" class="navbar-brand mb-0 h1">
             <i class="bi-hexagon-fill me-2"></i> Data Master
