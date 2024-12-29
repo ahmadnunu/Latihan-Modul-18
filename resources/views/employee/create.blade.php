@@ -5,7 +5,7 @@
         @csrf
         <div class="row justify-content-center">
             {{-- Dan Seterusnya --}}
-            <div class="p-5 bg-light rounded-3 border col-xl-6">
+            <div class="p-5 bg-primary text-white rounded-3 border col-xl-6">
                 <div class="mb-3 text-center">
                     <i class="bi-person-circle fs-1"></i>
                     <h4>Create Employee</h4>
