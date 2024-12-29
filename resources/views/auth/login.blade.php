@@ -1,11 +1,11 @@
 @extends('layouts.no-nav')
 
 @section('content')
-<div class="d-flex justify-content-center align-items-center" style="height: 100vh; background-color: #007bff;">
+<div class="d-flex justify-content-center align-items-center" style="height: 100vh; background-color: brown;">
     <div class="card shadow" style="width: 300px; border-radius: 8px; background-color: white;">
         <div class="card-body text-center">
             <div class="mb-4">
-                <i class="bi-hexagon-fill" style="color: #007bff; font-size: 50px;"></i>
+                <i class="bi-hexagon-fill" style="color: brown; font-size: 50px;"></i>
             </div>
             <h4 class="mb-4">Employee Data Master</h4>
 
