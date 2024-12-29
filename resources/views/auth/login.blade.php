@@ -5,7 +5,7 @@
     <div class="card shadow" style="width: 300px; border-radius: 8px; background-color: white;">
         <div class="card-body text-center">
             <div class="mb-4">
-                <i class="bi-hexagon-fill" style="color: #007bff; font-size: 50px;"></i>
+                <i class="bi-star-fill" style="color: #007bff; font-size: 50px;"></i>
             </div>
             <h4 class="mb-4">Employee Data Master</h4>
 
